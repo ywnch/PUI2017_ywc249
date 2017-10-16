@@ -9,12 +9,13 @@
 
 ## Work collaboration
 ### HW 5-1 & 5-2
-- Collaborated with Sarah S. and Yukun.
-- Discussed and walked through problem settings together.
-- Researched about chi-squared test together
+- Collaborated with Sarah S. and Yukun
+- Discussed and walked through problem settings together
+- Researched about Chi-squared test together
 
 ### HW 5-2
-Worked independently.
+- Discussed Chi-squared test with Yukun
 
 ### HW 5-3
-Worked independently.
+- Clarify data sets and plotting questions with Yukun
+- Codes are written independently.
