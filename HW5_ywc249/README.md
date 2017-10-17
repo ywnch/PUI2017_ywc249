@@ -17,6 +17,7 @@
 - Discussed Chi-squared test with Sarah S. and Yukun
 - Zhiao and Yukun helped me with the chi-squared test codes
 - Yu helped correct my codes with KL divergence
+- Yukun helped adjusted my mistake in the WLS model
 
 ### HW 5-3
 - Clarify data sets and plotting questions with Yukun
