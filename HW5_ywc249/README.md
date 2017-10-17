@@ -15,6 +15,7 @@
 
 ### HW 5-2
 - Discussed Chi-squared test with Yukun
+- Zhiao and Yukun helped me with the chi-squared test codes
 
 ### HW 5-3
 - Clarify data sets and plotting questions with Yukun
