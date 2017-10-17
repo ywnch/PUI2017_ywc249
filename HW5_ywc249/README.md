@@ -8,14 +8,15 @@
 3. develop an investigation of linear relationships in data
 
 ## Work collaboration
-### HW 5-1 & 5-2
+### HW 5-1
 - Collaborated with Sarah S. and Yukun
 - Discussed and walked through problem settings together
-- Researched about Chi-squared test together
+- Researched about Chi-squared model fitting together
 
 ### HW 5-2
-- Discussed Chi-squared test with Yukun
+- Discussed Chi-squared test with Sarah S. and Yukun
 - Zhiao and Yukun helped me with the chi-squared test codes
+- Yu helped correct my codes with KL divergence
 
 ### HW 5-3
 - Clarify data sets and plotting questions with Yukun
