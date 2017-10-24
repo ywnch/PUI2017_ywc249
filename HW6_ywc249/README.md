@@ -9,4 +9,4 @@
 
 ## Work collaboration
 ### HW 6
-- Worked independently but discussed about details, such as plotting, with Yukun.
+- Worked independently but discussed plotting methods, chi-square test, and propagation of uncertainty with Yukun.
