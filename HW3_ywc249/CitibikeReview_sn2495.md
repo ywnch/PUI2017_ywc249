@@ -1,6 +1,7 @@
 ## 1. Hypotheses 
 The Null hypotheses has been formulated correctly. Great Job! Would be even better if the significance level was mentioned.
 
+# FBB A Signuficance level **MUST** be mentioned!
 
 Yuwen wanted to check if the average trip length on weekends is greater than that of weekdays.
 
@@ -31,3 +32,4 @@ I follow the chart presented in the lecture slides. The following is the path
 5. if we assume variance is same, then we use Z-test else we use Welch t test.
 
 
+# FBB very good
