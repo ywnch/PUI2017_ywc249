@@ -15,6 +15,9 @@
 | Multiple Regression (Poisson) | arsenic level (single predictor) | continuous | lung cancer incidence rate (natural log) | continuous | smoking prevalence, median income | continuous, continuous | What is the influence of exposure levels of arsenic on lung cancer incidence in the U.S. | Sediment levels of arsenic is not associated with an increase in incident cases of lung cancer | 0.05 | [Association of Arsenic Exposure with Lung Cancer Incidence Rates in the United States](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0025886) |
 | Logistic Regression | age, gender, CCI, hospital volume, surgeon volume, and LOS | continuous, categorical, continuous, ordinal, ordinal, continuous | In-hospital Mortality | dichotomous | n/a | n/a | What is the odds probability of In-hospital Mortality occuring as the value of IVs Change | n/a, it's an accuracy comparison research with a different approach | 0.05 | [Comparison of Artificial Neural Network and Logistic Regression Models for Predicting In-Hospital Mortality after Primary Liver Cancer Surgery](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0035781) |
 
+# FBB I would have preferred if you parsed 3 different papers but I supposed it was not spelled out. 
+# Although the goal of the logreg paper is to compare the predictive power of a two models the logreg null is generally that for each variable the variable is not predictive 
+
 * CCI = Charlson co-morbidity index (Predicts 10-year survival in patients with multiple comorbidities.)
 * LOS = length of stay
 
