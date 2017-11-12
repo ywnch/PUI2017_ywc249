@@ -29,7 +29,8 @@ $$
 - The percentages are to be adjusted, as many people do not exit the station through turnstiles.
 
 ### Visualization
-- Plot the same data on a map, with circle size and color indicating the net flow percentage
+- Plot in black theme.
+- Plot the same data on a map, with circle size and color indicating the net flow percentage.
 - Pros: Allows geographically contextualized understanding of entry/exit flows.
 - Cons: Not suitable for making comparisons.
 
